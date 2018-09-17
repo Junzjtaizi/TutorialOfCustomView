@@ -1,4 +1,4 @@
-package cn.nieking.customview.Chapter01PaintBasis
+package cn.nieking.customview.Chapter01PaintBasis.Basis
 
 import android.annotation.SuppressLint
 import android.content.Context

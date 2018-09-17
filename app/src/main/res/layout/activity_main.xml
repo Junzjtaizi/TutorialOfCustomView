@@ -8,11 +8,31 @@
     tools:context=".MainActivity"
     android:orientation="vertical">
 
-    <!--<cn.nieking.customview.Chapter01PaintBasis.PaintBasis-->
+    <!--<cn.nieking.customview.Chapter01PaintBasis.Basis.PaintBasis-->
         <!--android:layout_width="wrap_content"-->
         <!--android:layout_height="wrap_content" />-->
 
-    <cn.nieking.customview.Chapter01PaintBasis.CanvasBasis
+    <!--<cn.nieking.customview.Chapter01PaintBasis.Basis.CanvasBasis-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+    <!--<cn.nieking.customview.Chapter01PaintBasis.Rect.RectAndRectF1-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+    <!--<cn.nieking.customview.Chapter01PaintBasis.Rect.RectAndRectF2-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+    <!--<cn.nieking.customview.Chapter01PaintBasis.Path.Path1-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+    <!--<cn.nieking.customview.Chapter01PaintBasis.Path.Path2-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+    <cn.nieking.customview.Chapter01PaintBasis.Path.Path3
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
