@@ -32,7 +32,19 @@
         <!--android:layout_width="match_parent"-->
         <!--android:layout_height="match_parent" />-->
 
-    <cn.nieking.customview.Chapter01PaintBasis.Path.Path3
+    <!--<cn.nieking.customview.Chapter01PaintBasis.Path.Path3-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+    <!--<cn.nieking.customview.Chapter01PaintBasis.Path.FillType-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+    <!--<cn.nieking.customview.Chapter01PaintBasis.Path.ResetPath-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+    <cn.nieking.customview.Chapter01PaintBasis.Example.RadarView
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
