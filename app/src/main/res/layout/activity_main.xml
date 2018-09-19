@@ -44,7 +44,19 @@
         <!--android:layout_width="match_parent"-->
         <!--android:layout_height="match_parent" />-->
 
-    <cn.nieking.customview.Chapter01PaintBasis.Example.RadarView
+    <!--<cn.nieking.customview.Chapter01PaintBasis.Example.RadarView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+    <!--<cn.nieking.customview.Chapter01PaintBasis.Text.Text-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+    <!--<cn.nieking.customview.Chapter01PaintBasis.Text.CanvasText-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+    <cn.nieking.customview.Chapter01PaintBasis.Text.Typeface
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 

@@ -7,7 +7,6 @@ import android.graphics.Paint
 import android.graphics.Path
 import android.util.AttributeSet
 import android.view.View
-import java.math.BigDecimal
 
 /**
  * 雷达图
@@ -117,6 +116,9 @@ class RadarView @JvmOverloads constructor(
 
     }
 
+    /**
+     * 画出数据图
+     */
     private fun drawRegion(canvas: Canvas) {
         val path = Path()
         valuePaint.alpha = 127
