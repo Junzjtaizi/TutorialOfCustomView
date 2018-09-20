@@ -56,7 +56,19 @@
         <!--android:layout_width="match_parent"-->
         <!--android:layout_height="match_parent" />-->
 
-    <cn.nieking.customview.Chapter01PaintBasis.Text.Typeface
+    <!--<cn.nieking.customview.Chapter01PaintBasis.Text.Typeface-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+    <!--<cn.nieking.customview.Chapter01PaintBasis.Region.Region1-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+    <!--<cn.nieking.customview.Chapter01PaintBasis.Region.Region2-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+    <cn.nieking.customview.Chapter01PaintBasis.Canvas.Canvas
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
