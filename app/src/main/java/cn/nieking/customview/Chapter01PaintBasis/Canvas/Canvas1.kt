@@ -9,7 +9,7 @@ import android.graphics.Rect
 import android.util.AttributeSet
 import android.view.View
 
-class Canvas @JvmOverloads constructor(
+class Canvas1 @JvmOverloads constructor(
         context: Context,
         attrs: AttributeSet? = null,
         defStyleAttr: Int = 0
@@ -30,9 +30,9 @@ class Canvas @JvmOverloads constructor(
 
         /*
         画布并非屏幕。
-        每次调用 drawXXX 系列函数来绘图时，都会产生一个全新的 Canvas 透明图层
+        每次调用 drawXXX 系列函数来绘图时，都会产生一个全新的 Canvas1 透明图层
         如果调用 drawXXX 系列函数前，对画布进行平移、旋转等操作后，操作不可逆。
-        Canvas 图层与屏幕合成时，超出屏幕范围的图像是不会显示出来的。
+        Canvas1 图层与屏幕合成时，超出屏幕范围的图像是不会显示出来的。
          */
 
         // 旋转
